@@ -755,6 +755,7 @@ text-align: center;
 }
 
 .offer-container {
+  box-shadow: 2px 4px 10px rgba(0,0,0,0.3); 
   height: 284px;
   width: 1443px;
   align-items: center;
@@ -1033,4 +1034,5 @@ p {
       .footer-bottom .payment-icons {
         margin-top: 10px;
       }
+
     }
