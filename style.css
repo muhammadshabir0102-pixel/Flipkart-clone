@@ -226,7 +226,8 @@ color: white;
   align-items: right;
   background-color:white;
    margin-left: 1130px; 
-   margin-top: -537px;
+  margin-top: -527px;
+   display: inline;
 }
 .store{
   display: inline;
@@ -1036,3 +1037,4 @@ p {
       }
 
     }
+
